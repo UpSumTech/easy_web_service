@@ -1,0 +1,26 @@
+= easy_web_service
+
+Easy Web Service provides similar functionalities to Active Resource.
+It allows you to call Restful actions on a remote application without you having to create a matching resource on your local application.
+The resource you are trying to work with on the remote application can be specified while making the request.
+One can also add non Restful actions to the list of actions available if needed.
+
+== build status
+
+{<img src="https://travis-ci.org/sumanmukherjee03/easy_web_service.png" />}[https://travis-ci.org/sumanmukherjee03/easy_web_service]
+
+== Contributing to easy_web_service
+
+* Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
+* Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
+* Fork the project.
+* Start a feature/bugfix branch.
+* Commit and push until you are happy with your contribution.
+* Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
+* Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
+
+== Copyright
+
+Copyright (c) 2013 Suman Mukherjee. See LICENSE.txt for
+further details.
+
